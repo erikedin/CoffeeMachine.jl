@@ -1,0 +1,8 @@
+name = "CoffeeMachine"
+uuid = "ae71ac6f-20b2-4d9d-81c3-08f1ab474c52"
+authors = ["Erik Edin <erikedin@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Behavior = "7a129280-419d-58e9-81ef-4f6801251892"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
